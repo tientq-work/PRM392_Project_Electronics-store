@@ -26,7 +26,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/editTextTenCV"
-        android:layout_marginLeft="50dp"
+        android:layout_marginStart="50dp"
         android:layout_marginTop="10dp"
         android:text="Thêm" />
 
@@ -36,7 +36,6 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/editTextTenCV"
         android:layout_marginStart="54dp"
-        android:layout_marginLeft="300dp"
         android:layout_marginTop="11dp"
         android:layout_toEndOf="@+id/buttonThem"
         android:text="Huỷ" />

@@ -16,7 +16,7 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            android:textSize="35dp"
+            android:textSize="35sp"
             android:textColor="@color/black"
             android:textStyle="bold"/>
 
